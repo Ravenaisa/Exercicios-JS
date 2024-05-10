@@ -15,7 +15,7 @@ let notafinal = (nota1 + nota2 + nota3 + nota4) /4
 if (notafinal >= 7.0) {
     console.log("Aprovado")
 }
-
+    
 else if (notafinal <=5.0) {
     console.log("Reprovado")
 }
