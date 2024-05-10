@@ -6,6 +6,8 @@
 
 let numero = prompt("Digite um número de 1 a 7")
 
+switch (dia_semana) 
+
 //números de acordo com a semana 
 
 if (numero==1) {
@@ -27,3 +29,4 @@ if(numero==4) {
 if(numero==5) {
     console.log ("Sexta-Feira")
 }
+
