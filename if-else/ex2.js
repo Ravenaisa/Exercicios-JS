@@ -10,7 +10,7 @@ switch (dia_semana)
 
 //números de acordo com a semana 
 
-if (numero==1) {
+if(numero==1) {
     console.log ("Segunda-Feira")
 }
 
