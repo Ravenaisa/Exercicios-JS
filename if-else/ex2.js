@@ -6,7 +6,7 @@
 
 let numero = prompt("Digite um número de 1 a 7")
 
-switch (dia_semana) 
+
 
 //números de acordo com a semana 
 
