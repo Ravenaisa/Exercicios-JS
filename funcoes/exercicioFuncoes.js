@@ -1,4 +1,4 @@
-//c
+//
 
 function exercicio1() {
 
@@ -42,7 +42,21 @@ function exercicio1() {
     }
 
 }
-    let opcao = window.prompt("MENU\ndigite a ")
+    let opcao = window.prompt("MENU\ndigite a opcao desejada:\n\n1 - ExercicioSemana")
+
+    switch (opcao) {
+      
+        case "1":
+            exercicioSemana()
+            break;
+
+            default:
+
+            break;
+
+    }
+
+     
 
 
 
